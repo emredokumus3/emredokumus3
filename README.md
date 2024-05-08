@@ -1,20 +1,21 @@
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+            <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **HTML, CSS, JavaScript, React, SQL SERVER**
+           - 🔭 I’m currently working on **HTML, CSS, JavaScript, React, SQL SERVER**
 
-- 🌱 I’m currently learning **JavaScript, SQL SERVER**
+            - 🌱 I’m currently learning **JavaScript, SQL SERVER**
 
-- 👯 I’m looking to collaborate on **internship, part-time, remote and fulltime**
+           - 👯 I’m looking to collaborate on **internship, part-time, remote and fulltime**
 
-- 💬 Ask me about **Front End**
+           - 💬 Ask me about **Front End**
 
-- 📫 How to reach me **emredokumus3@gmail.com**
+          - 📫 How to reach me **emredokumus3@gmail.com**
 
-- ⚡ Fun fact **Fitness and Work**
+           - ⚡ Fun fact **Fitness and Work**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/DokumusEmre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dokumusemre" height="30" width="40" /></a>
+           <h3 align="left">Connect with me:</h3>
+            <p align="left">
+           <a href="https://twitter.com/DokumusEmre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
+            generator/master/src/images/icons/Social/twitter.svg" alt="dokumusemre" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emre-dokumuş-624301294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emre dokumus" height="30" width="40" /></a>
 <a href="https://instagram.com/dokumus.emre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dokumus.emre" height="30" width="40" /></a>
 </p>

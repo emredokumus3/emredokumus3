@@ -5,8 +5,6 @@
 
  🌱 I’m currently learning **JavaScript, SQL SERVER**
 
- 👯 I’m looking to collaborate on **internship, part-time, remote and fulltime**
-
  💬 Ask me about **Front End**
 
  📫 How to reach me **emredokumus3@gmail.com**
